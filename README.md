@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./Screen-Recording-2022-03-18-at-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Screen-Recording-2022-03-19-at-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
